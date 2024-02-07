@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/obsidian_repositories/C/c++ class/code/build",
+  "command": "E:\\mingw64\\bin\\g++.exe   -g -finput-charset=UTF-8 -fexec-charset=GBK -o CMakeFiles\\main.dir\\demo30.cpp.obj -c \"D:\\obsidian_repositories\\C\\c++ class\\code\\demo30.cpp\"",
+  "file": "D:/obsidian_repositories/C/c++ class/code/demo30.cpp",
+  "output": "CMakeFiles/main.dir/demo30.cpp.obj"
+}
+]

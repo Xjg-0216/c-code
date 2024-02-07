@@ -1,0 +1,3 @@
+D:/obsidian_repositories/C/c++ class/code/build/CMakeFiles/main.dir
+D:/obsidian_repositories/C/c++ class/code/build/CMakeFiles/edit_cache.dir
+D:/obsidian_repositories/C/c++ class/code/build/CMakeFiles/rebuild_cache.dir

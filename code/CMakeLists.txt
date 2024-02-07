@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(class_study)
+add_compile_options("$<$<CXX_COMPILER_ID:GNU>:-finput-charset=UTF-8>")
+add_compile_options("$<$<CXX_COMPILER_ID:GNU>:-fexec-charset=GBK>")
+set(DEFAULT_CXX_STANDARD 11)
+add_executable(main demo30.cpp)
